@@ -7,9 +7,4 @@ npm i
 npm run play
 ```
 
-<details>
-<summary>Sample Output</summary>
-
 ![Alt text](./screenshots/output.png?raw=true "Title")
-
-</details>
